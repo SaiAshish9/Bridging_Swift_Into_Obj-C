@@ -13,5 +13,5 @@
 ```
 
 ```
-4. Make sue to import all the new objective c files except ViewController.h into BrigingSwiftAndObjC-Header.h
+4. Make sue to import all the new objective c files except ViewController.h into BrigingSwiftAndObjC-Bridging-Header.h
 ```
