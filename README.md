@@ -5,7 +5,7 @@
 ```
 
 ```
-2. Add new swift file . It will ask to create briding header. Select continue option.
+2. Add new swift file . It will ask to create briding header. Select Create Bridging Header option.
 ```
 
 ```
